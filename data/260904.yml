@@ -7,7 +7,7 @@ about:
   head: da63304
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T20:03:08Z
+  collectedAt: 2026-09-04T20:43:30Z
 timeline:
   created: 2014-09-14
   lastCommit: 2025-07-09
@@ -83,6 +83,34 @@ total:
   openIssue: 11
   commit: 305
 ---
+path: /home/runner/.x-repo/github.com/visit1985/mdp
+collectedAt: 2026-09-04T20:43:30Z
+loc:
+  C:
+    code: 1731
+    comments: 390
+    blanks: 392
+    files: 7
+  CHeader:
+    code: 281
+    comments: 312
+    blanks: 58
+    files: 10
+  Makefile:
+    code: 68
+    comments: 38
+    blanks: 22
+    files: 2
+  Markdown:
+    code: 0
+    comments: 290
+    blanks: 157
+    files: 2
+total:
+  code: 2080
+  comments: 1030
+  blanks: 629
+  files: 21
 ---
 date: "2026-08-24"
 repo:
