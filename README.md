@@ -1,24 +1,67 @@
 # mdp
 
+[中文版本](./README.cn.md)
+
 A command-line based markdown presentation tool.
 
-- **Upstream**: <https://github.com/visit1985/mdp>
-- **Homepage**: <>
-- **Latest release**: `` (n/a)
-- **Last commit**: 2026-09-09
-- **License**: GPL-3.0
-- **Stars**: 5276 · **Forks**: 263 · **Open issues**: 104 · **Contributors**: 36
+![mdp](https://repo.x-cmd.io/mdp.svg)
 
-## Installation
+## Install
 
 ```sh
 x install mdp
 ```
 
-See <https://x-cmd.com/install/mdp> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/visit1985/mdp>
+- **License**: GPL-3.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Popularity
 
-_Last regenerated: 2026-09-09T18:22:25Z._
+- **Stars**: 5,276 · **Forks**: 263 · **Open issues**: 104 · **Contributors**: 36
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 57 · **Open PRs**: 0 · **Closed issues**: 97 · **Open issues**: 7 · **Commits**: 317
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 0 | 1 | 0 | 12 |
+| 90d | 2026-06-12 | 0 | 1 | 0 | 1 | 0 | 12 |
+| 360d | 2025-09-15 | 0 | 1 | 0 | 2 | 0 | 12 |
+
+## Code size
+
+Total: **2,964** lines of code across **26** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 2,212 | 437 | 473 | 7 |
+| Python | 411 | 62 | 83 | 2 |
+| CHeader | 269 | 315 | 58 | 10 |
+| Makefile | 72 | 38 | 22 | 2 |
+| Markdown | 0 | 353 | 189 | 5 |
+
+## OpenSSF Scorecard
+
+Overall score: **4 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 6/27 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
+## Improve this data
+
+Install metadata for mdp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mdp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/mdp.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T01:56:45Z._
