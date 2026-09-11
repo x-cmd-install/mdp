@@ -12,28 +12,7 @@ A command-line based markdown presentation tool.
 x install mdp
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/visit1985/mdp>
-- **License**: GPL-3.0
-
-## Popularity
-
-- **Stars**: 5,276 · **Forks**: 263 · **Open issues**: 104 · **Contributors**: 36
-
-## Totals (cumulative)
-
-- **Releases**: 0 · **Merged PRs**: 57 · **Open PRs**: 0 · **Closed issues**: 97 · **Open issues**: 7 · **Commits**: 317
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 0 | 1 | 0 | 12 |
-| 90d | 2026-06-12 | 0 | 1 | 0 | 1 | 0 | 12 |
-| 360d | 2025-09-15 | 0 | 1 | 0 | 2 | 0 | 12 |
-
-## Code size
+## Code insight
 
 Total: **2,964** lines of code across **26** files in the top 5 languages.
 
@@ -55,6 +34,30 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/visit1985/mdp>
+- **License**: GPL-3.0
+
+## Popularity
+
+- **Stars**: 5,279 · **Forks**: 263 · **Open issues**: 104 · **Contributors**: 36
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 57 · **Open PRs**: 0 · **Closed issues**: 97 · **Open issues**: 7 · **Commits**: 317
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 1 | 0 | 1 | 0 | 12 |
+| last60d | 2026-07-13 | 0 | 1 | 0 | 1 | 0 | 12 |
+| 90d | 2026-06-13 | 0 | 1 | 0 | 1 | 0 | 12 |
+| last180d | 2026-03-15 | 0 | 1 | 0 | 1 | 0 | 12 |
+| 360d | 2025-09-16 | 0 | 1 | 0 | 2 | 0 | 12 |
+| last720d | 2024-09-21 | 0 | 2 | 0 | 3 | 0 | 24 |
+
 ## Improve this data
 
 Install metadata for mdp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mdp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -64,4 +67,4 @@ Install metadata for mdp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:49:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:22:05Z._
