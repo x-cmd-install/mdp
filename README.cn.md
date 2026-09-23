@@ -4,7 +4,7 @@
 
 A command-line based markdown presentation tool.
 
-[![x-cmd/install — mdp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mdp.svg?lang=zh)](https://x-cmd.com/install/mdp)
+[![x-cmd/install — mdp Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mdp.svg?lang=zh)](https://x-cmd.com/install/mdp)
 
 ## 安装
 
@@ -41,7 +41,7 @@ x install mdp
 
 ## 流行度
 
-- **Star**: 5,279 · **Fork**: 263 · **开放 issue**: 104 · **贡献者**: 36
+- **Star**: 5,280 · **Fork**: 263 · **开放 issue**: 104 · **贡献者**: 36
 
 ## 累计统计
 
@@ -51,12 +51,12 @@ x install mdp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 0 | 1 | 0 | 12 |
-| last60d | 2026-07-24 | 0 | 1 | 0 | 1 | 0 | 12 |
-| 90d | 2026-06-24 | 0 | 1 | 0 | 1 | 0 | 12 |
-| last180d | 2026-03-26 | 0 | 1 | 0 | 1 | 0 | 12 |
-| 360d | 2025-09-27 | 0 | 1 | 0 | 2 | 0 | 12 |
-| last720d | 2024-10-02 | 0 | 2 | 0 | 3 | 0 | 24 |
+| 30d | 2026-08-24 | 0 | 1 | 0 | 1 | 0 | 12 |
+| last60d | 2026-07-25 | 0 | 1 | 0 | 1 | 0 | 12 |
+| 90d | 2026-06-25 | 0 | 1 | 0 | 1 | 0 | 12 |
+| last180d | 2026-03-27 | 0 | 1 | 0 | 1 | 0 | 12 |
+| 360d | 2025-09-28 | 0 | 1 | 0 | 2 | 0 | 12 |
+| last720d | 2024-10-03 | 0 | 2 | 0 | 3 | 0 | 24 |
 
 ## 改进这些数据
 
@@ -67,4 +67,4 @@ mdp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T02:16:59Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T02:18:16Z._
