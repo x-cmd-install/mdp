@@ -24,16 +24,6 @@ x install mdp
 | Makefile | 72 | 38 | 22 | 2 |
 | Markdown | 0 | 353 | 189 | 5 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (2/10) — Found 6/27 approved changesets -- score normalized to 2
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/visit1985/mdp>
@@ -41,7 +31,7 @@ x install mdp
 
 ## 流行度
 
-- **Star**: 5,280 · **Fork**: 265 · **开放 issue**: 104 · **贡献者**: 36
+- **Star**: 5,281 · **Fork**: 265 · **开放 issue**: 104 · **贡献者**: 36
 
 ## 累计统计
 
@@ -51,12 +41,12 @@ x install mdp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 0 | 1 | 0 | 0 | 0 | 12 |
-| 90d | 2026-08-02 | 0 | 1 | 0 | 1 | 0 | 12 |
-| last180d | 2026-05-04 | 0 | 1 | 0 | 1 | 0 | 12 |
-| 360d | 2025-11-05 | 0 | 1 | 0 | 2 | 0 | 12 |
-| last720d | 2024-11-10 | 0 | 2 | 0 | 2 | 0 | 24 |
+| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-02 | 0 | 1 | 0 | 0 | 0 | 12 |
+| 90d | 2026-08-03 | 0 | 1 | 0 | 1 | 0 | 12 |
+| last180d | 2026-05-05 | 0 | 1 | 0 | 1 | 0 | 12 |
+| 360d | 2025-11-06 | 0 | 1 | 0 | 2 | 0 | 12 |
+| last720d | 2024-11-11 | 0 | 2 | 0 | 2 | 0 | 24 |
 
 ## 改进这些数据
 
@@ -67,4 +57,4 @@ mdp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T03:06:54Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T03:01:56Z._
