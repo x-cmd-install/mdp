@@ -24,6 +24,16 @@ Total: **2,964** lines of code across **26** files in the top 5 languages.
 | Makefile | 72 | 38 | 22 | 2 |
 | Markdown | 0 | 353 | 189 | 5 |
 
+## OpenSSF Scorecard
+
+Overall score: **4 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 6/27 approved changesets -- score normalized to 2
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/visit1985/mdp>
@@ -41,12 +51,12 @@ Total: **2,964** lines of code across **26** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-06 | 0 | 1 | 0 | 1 | 0 | 12 |
-| last180d | 2026-05-08 | 0 | 1 | 0 | 1 | 0 | 12 |
-| 360d | 2025-11-09 | 0 | 1 | 0 | 2 | 0 | 12 |
-| last720d | 2024-11-14 | 0 | 2 | 0 | 2 | 0 | 24 |
+| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-06 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-07 | 0 | 1 | 0 | 1 | 0 | 12 |
+| last180d | 2026-05-09 | 0 | 1 | 0 | 1 | 0 | 12 |
+| 360d | 2025-11-10 | 0 | 1 | 0 | 2 | 0 | 12 |
+| last720d | 2024-11-15 | 0 | 2 | 0 | 2 | 0 | 24 |
 
 ## Improve this data
 
@@ -57,4 +67,4 @@ Install metadata for mdp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T03:46:44Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T04:04:35Z._
